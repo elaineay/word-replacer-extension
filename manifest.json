@@ -1,0 +1,16 @@
+{
+  "name": "Word Replacer",
+  "version": "1.0",
+  "description": "Replace words with a default placeholder.",
+  "permissions": [],
+  "page_action": {
+    "default_icon": {
+      "1": "images/corgipup.jpg"
+    }
+  },
+  "icons": {
+    "1": "images/corgipup.jpg"
+  },
+  "background": {},
+  "manifest_version": 2
+}
